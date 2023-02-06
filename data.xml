@@ -1,0 +1,129 @@
+
+
+
+<yml_catalog date="2022-02-05 12:10">
+	<shop>
+		<name>Prestige.code</name>
+		<company>Онлайн-школа прогрмирования Prestige.code</company>
+		<url>https://prestigecodeschool.com/</url>
+		<email>prestigecodeschool@gmail.com</email>
+		<picture>https://avatars.mds.yandex.net/get-yapic/62162/ZBFdGYiwRL3jdEzr5fdXy5LFg-1/islands-200</picture>
+		<description>Курсы по Unity, Scratch, Python, Web-разработке и Компьютерной грамотности</description>
+		<currencies>
+			<currency id="RUR" rate="1" />
+		</currencies>
+		<sets>
+			<set id="s2">
+				<name>Курсы по разработке игр на Unity</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+			</set>
+			<set id="s3">
+				<name>Курсы по программированию на Scratch</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+			</set>
+			<set id="s4">
+				<name>Курсы по компьютерной грамотности</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+			</set>
+			<set id="s5">
+				<name>Курсы по Web-разработке</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+			</set>
+		</sets>
+		<offers>
+			<offer id="01unity">
+				<name>Разработка игр на Unity</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+				<categoryId>702</categoryId>
+				<set-ids>s2</set-ids>
+				<price>31200</price>
+				<currencyId>RUR</currencyId>
+				<param name="Продолжительность" unit="час">26</param>
+				<param name="План" order="1" unit="Модуль 1" hours="6">Знакомство с Unity. Разработка 2D игры.</param>
+				<param name="План" order="2" unit="Модуль 2" hours="14">Основная часть. Разработка 3D игры.</param>
+				<param name="План" order="3" unit="Модуль 3" hours="6">Углубленное изучение движка Unity.</param>
+				<param name="Формат обучения">С преподавателем</param>
+				<param name="Есть вебинары">true</param>
+				<param name="Есть домашние работы">true</param>
+				<param name="Есть видеоуроки">true</param>
+				<param name="Есть текстовые уроки">true</param>
+				<param name="Есть тренажеры">true</param>
+				<param name="Есть сообщество">true</param>
+				<param name="Сложность">Для новичков</param>
+				<param name="Тип обучения">Курс</param>
+				<param name="Есть бесплатная часть">true</param>
+				<param name="Результат обучения">Сертификат</param>
+				<param name="Часы в неделю">2</param>
+				<description>Начни создавать свои игры!</description>
+			</offer>
+			<offer id="02scratch">
+				<name>Курс по Scratch</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+				<categoryId>100</categoryId>
+				<set-ids>s3</set-ids>
+				<price>16000</price>
+				<currencyId>RUR</currencyId>
+				<param name="Продолжительность" unit="час">16</param>
+				<param name="План" order="1" unit="Модуль 1" hours="4">Знакомство с графикой. Типы графики.</param>
+				<param name="План" order="2" unit="Модуль 2" hours="4">Работа в графичкском редакторе. Создание графики.</param>
+				<param name="План" order="3" unit="Модуль 3" hours="4">Основная часть. Алгоритмы. Разработка игры.</param>
+				<param name="План" order="4" unit="Модуль 4" hours="4">Глубленная часть. Переменные, клоны, списки.</param>
+				<param name="Формат обучения">С преподавателем</param>
+				<param name="Есть вебинары">true</param>
+				<param name="Есть домашние работы">true</param>
+				<param name="Есть видеоуроки">true</param>
+				<param name="Есть тренажеры">true</param>
+				<param name="Сложность">Для новичков</param>
+				<param name="Тип обучения">Курс</param>
+				<param name="Результат обучения">Сертификат</param>
+				<param name="Часы в неделю">2</param>
+				<description>Программирование для детей</description>
+			</offer>
+			<offer id="03comlit">
+				<name>Курс по компьютерной грамотности</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+				<categoryId>899</categoryId>
+				<set-ids>s4</set-ids>
+				<price>9600</price>
+				<currencyId>RUR</currencyId>
+				<param name="Продолжительность" unit="час">12</param>
+				<param name="План" order="1" unit="Модуль 1" hours="3">Что такое компьютер и из чего он состоит.</param>
+				<param name="План" order="2" unit="Модуль 2" hours="3">ОС. Службы, процессы и основные характеристики.</param>
+				<param name="План" order="3" unit="Модуль 3" hours="3">Работа в ОС Windows.</param>
+				<param name="План" order="4" unit="Модуль 4" hours="3">Интернет и браузеры.</param>
+				<param name="Формат обучения">С преподавателем</param>
+				<param name="Есть вебинары">true</param>
+				<param name="Есть текстовые уроки">true</param>
+				<param name="Есть тренажеры">true</param>
+				<param name="Сложность">Для новичков</param>
+				<param name="Тип обучения">Курс</param>
+				<param name="Результат обучения">Сертификат</param>
+				<param name="Часы в неделю">2</param>
+				<description>Научись пользоваться компьютером</description>
+			</offer>
+			<offer id="04webdev">
+				<name>Курс по Web-разработке</name>
+				<url>https://prestigecodeschool.com/#rec534336838</url>
+				<categoryId>101</categoryId>
+				<set-ids>s5</set-ids>
+				<price>22000</price>
+				<currencyId>RUR</currencyId>
+				<param name="Продолжительность" unit="час">22</param>
+				<param name="План" order="1" unit="Модуль 1" hours="6">HTML5</param>
+				<param name="План" order="2" unit="Модуль 2" hours="6">CSS.</param>
+				<param name="План" order="3" unit="Модуль 3" hours="6">JavaScript.</param>
+				<param name="План" order="4" unit="Модуль 4" hours="3">Конструкторы сайтов.</param>
+				<param name="План" order="5" unit="Модуль 5" hours="3">Публикация и продвижение сайта.</param>
+				<param name="Формат обучения">С преподавателем</param>
+				<param name="Есть вебинары">true</param>
+				<param name="Есть текстовые уроки">true</param>
+				<param name="Есть тренажеры">true</param>
+				<param name="Сложность">Для новичков</param>
+				<param name="Тип обучения">Курс</param>
+				<param name="Результат обучения">Сертификат</param>
+				<param name="Часы в неделю">2</param>
+				<description>Создай свой первый сайт!</description>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
